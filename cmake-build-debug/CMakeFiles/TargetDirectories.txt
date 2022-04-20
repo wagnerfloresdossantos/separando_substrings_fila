@@ -1,0 +1,3 @@
+/home/wagner/CLionProjects/2022_1/separando_substrings_fila/cmake-build-debug/CMakeFiles/separando_substrings_fila.dir
+/home/wagner/CLionProjects/2022_1/separando_substrings_fila/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/wagner/CLionProjects/2022_1/separando_substrings_fila/cmake-build-debug/CMakeFiles/rebuild_cache.dir
