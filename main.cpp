@@ -17,22 +17,20 @@ int main(int argc, char *argv[]) {
         return errno;
     }
 
+
+    queue<string> palavra;
+
+
     string sep = " ,";
     string linha;
 
+
     while(getline(arq, linha)){
-        while(true) {
-
-            int pos1 = linha.find_first_of(sep);
-
-
-
-        }
-    }
-
-
-
-
-
-
+        int pos=0;
+       while(pos != string::npos) {
+           pos = linha.find_first_of(sep);
+           palavra.push(linha.substr(0,pos));
+           linha.erase(0,pos+1);
+           }
+       }
 }

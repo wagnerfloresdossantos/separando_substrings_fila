@@ -1,2 +1,2 @@
 um exemplo de string com trechos delimitados por espaço
-a partir de "outro,exemplo,com,trechos,separados,por,vírgula
+outro,exemplo,com,trechos,separados,por,vírgula
